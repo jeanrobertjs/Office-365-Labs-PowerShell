@@ -2,9 +2,6 @@
 
 Quelques liens utiles :
 
-- Aide sur l’administration Office 365 via PowerShell : http://powershell.office.com/
+- Comment gérer l’administration Office 365 via PowerShell : https://docs.microsoft.com/office365/enterprise/powershell/manage-office-365-with-office-365-powershell
 
-- Documentation sur Azure Active Directory (Utilisateur, groupes, licences…) : https://docs.microsoft.com/en-us/powershell/msonline/v1/azureactivedirectory
-- Documentation sur Exchange Online : https://technet.microsoft.com/en-us/library/jj200780(v=exchg.160).aspx
-- Documentation sur SharePoint Online : https://technet.microsoft.com/en-us/library/fp161397.aspx
-- Documentation sur Skype Entreprise Online : https://technet.microsoft.com/en-us/library/dn362817(v=ocs.15).aspx
+- Liens rapides pour se connecter aux services Office 365 via PowerShell : https://support.office.com/article/Connexion-de-PowerShell-aux-services-Office-365-06a743bb-ceb6-49a9-a61d-db4ffdf54fa6
